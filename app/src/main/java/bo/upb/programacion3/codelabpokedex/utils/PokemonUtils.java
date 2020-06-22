@@ -27,6 +27,7 @@ public class PokemonUtils {
         pokemons.add(new Pokemon(10, "Sandshrew", R.drawable.sandshrew, "Ground"));
         pokemons.add(new Pokemon(11, "Venonat", R.drawable.venonat, "Bug"));
         pokemons.add(new Pokemon(12, "Zubat", R.drawable.zubat, "Poison"));
+
         return pokemons;
     }
 }
