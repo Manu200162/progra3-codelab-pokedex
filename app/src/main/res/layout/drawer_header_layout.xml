@@ -12,13 +12,13 @@
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:scaleType="centerCrop"
-        android:src="@drawable/ash_ketchum" />
+        android:src="@drawable/my-avatar" />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="40dp"
         android:gravity="center"
-        android:text="ASH KETCHUM"
+        android:text="Manuel Valenzuela"
         android:textColor="@color/colorBlack"
         android:textSize="18sp"
         android:textStyle="bold" />
